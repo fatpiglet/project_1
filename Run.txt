@@ -1,0 +1,4 @@
+To open the website first open the terminal in the project folder then open the environment by
+typing "venv\Scripts\Activate" in powershell and "venv\Scripts\Activate" then,
+to start the website type "flask run".
+To stop the website press Ctrl + C in the terminal.
